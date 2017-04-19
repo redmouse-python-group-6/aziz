@@ -1,9 +1,9 @@
+ # -- coding: utf-8 --
 
-x= input('Enter a number between 1 and 9 : ')
+x= int(input('Enter a number between 1 and 9 : '))
 
 i = 1
 
-x = int(x)
 if x > 1 and x <= 3:
 
 	s = input('Write a tex: ')
