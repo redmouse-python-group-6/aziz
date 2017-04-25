@@ -6,9 +6,9 @@ if x > 1 and x <= 3:
 	i = 1
 	s = input('Write a tex: ')
 	n = int (input ('Write the number of text repeats: '))
-	while i <= n:
-		print (s)
-		i = i + 1
+	    while i <= n:
+		    print (s)
+		    i = i + 1
 elif x > 4 and x <= 6:
 	n = int (input('Введите степень в которую нужно ввести число: '))
 	m = n
